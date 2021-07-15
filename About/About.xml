@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>[WZRD] Carry Capacity (Continued)</name>
   <packageId>Mlie.WZRDCarryCapacity</packageId>
@@ -8,28 +8,47 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>Update of Wzrds mod
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Wzrds mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1560006592
 
-[img]https://i.imgur.com/GYswkZ7.png[/img]
+NOTICE: Carrying Capacity is capped by the stack limit so without any other mods this only works on pawns with less than 75 carrying capacity due to injuries. You will need to choose a mod for yourself for that aspect.
 
-Support-chat:
-https://invite.gg/mlie
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
-Non-steam version:
-https://github.com/emipa606/WZRDCarryCapacity
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/WZRDCarryCapacity][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+
 Mod for customizing Pawn Carry Capacity and Transport Pod Carry Capacity.
 
 By default this mod changes Pawn/Colonist and Transport Pod capacity to 2X from default. You can change these settings via Mod Settings UI.
 
 - Adjust how much Colonist (Pawn) can carry.
 - Adjust how much Transport Pods can carry.
-- Caravan capacity is determined by colonists carry capacity, so plan accordingly.
+- Caravan capacity is determined by colonists carry capacity, so plan accordingly. 
 - Mod Settings Support to choose exactly how much you want to adjust each capacity.
-- Fully Save Compatible (install / uninstall).</description>
+- Fully Save Compatible (install / uninstall).
+
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+
