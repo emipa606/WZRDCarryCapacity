@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>[WZRD] Carry Capacity (Continued)</name>
   <packageId>Mlie.WZRDCarryCapacity</packageId>
@@ -12,22 +12,26 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Wzrds mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1560006592
 
 NOTICE: Carrying Capacity is capped by the stack limit so without any other mods this only works on pawns with less than 75 carrying capacity due to injuries. You will need to choose a mod for yourself for that aspect.
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
 		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/WZRDCarryCapacity][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
-	[/tr]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/h5VwTNL.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 Mod for customizing Pawn Carry Capacity and Transport Pod Carry Capacity.
 
@@ -40,7 +44,7 @@ By default this mod changes Pawn/Colonist and Transport Pod capacity to 2X from 
 - Fully Save Compatible (install / uninstall).
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -51,4 +55,3 @@ By default this mod changes Pawn/Colonist and Transport Pod capacity to 2X from 
 [/list]
 </description>
 </ModMetaData>
-
