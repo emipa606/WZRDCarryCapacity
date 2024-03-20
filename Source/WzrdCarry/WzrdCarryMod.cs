@@ -18,8 +18,7 @@ public class WzrdCarryMod : Mod
         settings = GetSettings<WzrdCarrySettings>();
         LongEventHandler.QueueLongEvent(Go, "WzrdCarry_Init", false, null);
         currentVersion =
-            VersionFromManifest.GetVersionFromModMetaData(
-                ModLister.GetActiveModWithIdentifier("Mlie.WZRDCarryCapacity"));
+            VersionFromManifest.GetVersionFromModMetaData(content.ModMetaData);
     }
 
     public override string SettingsCategory()
